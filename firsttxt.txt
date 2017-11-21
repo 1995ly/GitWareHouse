@@ -1,2 +1,3 @@
 ﻿This is my first GitTxt.
 first txt reedit modify.
+Git has amutable index called stage.
